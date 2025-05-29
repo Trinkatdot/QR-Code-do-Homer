@@ -21,13 +21,13 @@ Uma aplicação web divertida e temática para gerar códigos QR a partir de URL
 4.  Clique no botão "Gerar QR Code".
 5.  O QR Code aparecerá abaixo do formulário.
 
-## 🔗 Demonstração Online (Opcional)
+## 🔗 Demonstração Online
 [Link para a Demonstração Online](https://qr-code-do-homer.vercel.app/)
 
 ## 🧑‍💻 Autor
 * **Agatha Katherine** - [Meu GitHub](https://github.com/Trinkatdot)
 
-## 📄 Licença (Opcional)
+## 📄 Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 ---
 
