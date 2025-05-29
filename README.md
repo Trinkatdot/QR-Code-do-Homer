@@ -8,6 +8,7 @@ Uma aplicação web divertida e temática para gerar códigos QR a partir de URL
 * Geração instantânea de QR Codes a partir de texto ou URLs.
 * Interface temática inspirada nos Simpsons.
 * Visualização do QR Code gerado diretamente na página.
+* Execução de Audio ao Gerar o QR Code
 
 ## 🛠️ Tecnologias Utilizadas
 * HTML5
